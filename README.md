@@ -1,4 +1,5 @@
 # Zero-1-to-3: Zero-shot One Image to 3D Object
+### ICCV 2023
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/cvlab/zero123-live)
 ### [Project Page](https://zero123.cs.columbia.edu/)  | [Paper](https://arxiv.org/abs/2303.11328) | [Weights](https://huggingface.co/cvlab/zero123-weights/tree/main) | [Live Demo 🤗](https://huggingface.co/spaces/cvlab/zero123-live)
 
@@ -19,6 +20,8 @@
 
 ## Updates
 
+- [Zero123-XL](https://zero123.cs.columbia.edu/assets/zero123-xl.ckpt) and [Objaverse-XL](https://github.com/allenai/objaverse-xl) released!
+- Checkout the [amazing image-to-3D results](https://github.com/threestudio-project/threestudio#zero-1-to-3-) at Threestudio developed by Stability AI!
 - [Threestudio](https://github.com/threestudio-project/threestudio#zero-1-to-3-) has recently implemented single-view 3D reconstruction with zero123!  
 - [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) has recently implemented 3D reconstruction with zero123 using Instant-NGP and SDS loss from DreamFusion!
 - We have released [training script](https://github.com/cvlab-columbia/zero123#training-script-preliminary) and [objaverse renderings](https://github.com/cvlab-columbia/zero123#dataset-objaverse-renderings).  
